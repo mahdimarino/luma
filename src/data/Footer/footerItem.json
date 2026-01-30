@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Services",
+        "list": [
+            {
+            "id": 1,
+            "text": "Groundwork",
+            "url": "/service"
+            },
+            {
+            "id": 2,
+            "text": "Generate",
+            "url": "/generate"
+            },
+            {
+            "id": 3,
+            "text": "Nurture",
+            "url": "/nurture"
+            }
+            
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Links",
+        "list": [
+            {
+            "id": 1,
+            "text": "Home",
+            "url": "/"
+            },
+            {
+            "id": 2,
+            "text": "About Us",
+            "url": "/about"
+            },
+            {
+            "id": 3,
+            "text": "Careers",
+            
+            "url": "/work"
+            },
+            {
+            "id": 4,
+            "text": "Contact Us",
+            "url": "/contact"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Legals",
+        "list": [
+            {
+            "id": 1,
+            "text": "Privacy Policy",
+            "url": "/policies"
+            },
+            {
+            "id": 2,
+            "text": "Data policy",
+            "url": "/"
+            },
+            {
+            "id": 3,
+            "text": "Cookies",
+            "url": "/"
+            }
+        ]
+    }
+]

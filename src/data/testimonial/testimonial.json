@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "image": "https://mahdismahi.com/ddmicons/8728077.png",
+        "desc": "We deliver the quality marketing strategies with our quality services",
+        "name": "Quality",
+        "position": ""
+    },
+    {
+        "id": 2,
+        "image": "https://mahdismahi.com/ddmicons/14601698.png",
+        "desc": "We provide a large quantity of quality leads, to increase your conversion rates",
+        "name": "Quantity ",
+        "position": ""
+    },
+    {
+        "id": 3,
+        "image": "https://mahdismahi.com/ddmicons/12178647.png",
+        "desc": "Our strategies are tailored to deliver quality & quantity, quickly.",
+        "name": " Quickness ",
+        "position": ""
+    }
+    
+]

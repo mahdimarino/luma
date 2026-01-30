@@ -1,0 +1,20 @@
+[
+    {
+    "id": "1",
+    "icon": "images/svg/linea/linea-basic-map.svg",
+    "title": "Our Locations",
+    "info": " Business Bay, Dubai. UAE"
+    },
+    {
+    "id": "2",
+    "icon": "images/svg/linea/linea-basic-message-txt.svg",
+    "title": "Give Us A Call",
+    "info": "+971111111111 "
+    },
+    {
+    "id": "3",
+    "icon": "images/svg/linea/linea-basic-mail-open-text.svg",
+    "title": "Help Desk",
+    "info": "info@distinctdigitalmedia.com "
+    }
+]

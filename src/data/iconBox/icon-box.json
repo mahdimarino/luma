@@ -1,0 +1,99 @@
+[
+    {
+        "id": "1",
+        "icon": "https://mahdismahi.com/ddmicons/cybersecurity.png",
+        "title": "Data Solutions",
+        "desc": "We acquire the data for you, so you can use it to convert prospects into clients.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "2",
+        "icon": "https://mahdismahi.com/ddmicons/conversion-rate.png",
+        "title": "Lead Generation",
+        "desc": "Lead your Industry and stay ahead of your competition by acquiring your market.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "3",
+        "icon": "https://mahdismahi.com/ddmicons/appointment.png",
+        "title": "Appointment Generation",
+        "desc": "Reach your prospects before your competition and convert them into paying customers.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "4",
+        "icon": "https://mahdismahi.com/ddmicons/analytics.png",
+        "title": "Market Research",
+        "desc": "Know what your market demands, understand, and reach your audience at the right time and place.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "5",
+        "icon": "https://mahdismahi.com/ddmicons/demand.png",
+        "title": "Demand Generation",
+        "desc": "Create a demand for your Products and services to scale exponentially.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "6",
+        "icon": "https://mahdismahi.com/ddmicons/project-management.png",
+        "title": "Account Based Marketing",
+        "desc": "We can target specific accounts for you until they become your loyal customers.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "7",
+        "icon": "https://mahdismahi.com/ddmicons/social-media.png",
+        "title": "Brand Marketing",
+        "desc": "From creating your brand identity to establishing your company as a brand, we do it all!",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "8",
+        "icon": "https://mahdismahi.com/ddmicons/registration.png",
+        "title": "Registrations",
+        "desc": "We put you in front of the right audience so you can deliver your webinars or seminars successfully.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "9",
+        "icon": "https://mahdismahi.com/ddmicons/bant.png",
+        "title": "BANT",
+        "desc": "We find you Leads, with the budget, authority, need and timeline to buy your offerings.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "10",
+        "icon": "https://mahdismahi.com/ddmicons/4187272.png",
+        "title": "Digital Mareketing",
+        "desc": "We enhance your Digital Identity, Showcase your strengths and reach a global audience",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "11",
+        "icon": "https://mahdismahi.com/ddmicons/3901662.png",
+        "title": "Intent Lead Generation",
+        "desc": "Capitalize on Intent Data and establish yourself as a market leader.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "12",
+        "icon": "https://mahdismahi.com/ddmicons/11509409.png",
+        "title": "Sales Qualified Leads",
+        "desc": "Save time and costs by converting qualified leads acquired through our Distinct SQL campaigns.",
+        "pageLink": "Learn More",
+        "link": "service"
+    }
+    
+]

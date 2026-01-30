@@ -1,0 +1,15 @@
+[
+    {
+        "id": "1",
+        "title": "Get Ahead of the Competition!",
+        "desc": "Supercharge your business with our top-notch Lead Generation and Marketing Services, driving growth and maximizing market impact.",
+        "backgroundImage": "/images/hero-image/hero-2.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Luma Demand",
+        "desc": "Luma Demand is a Sales Enablement as a Service (SEaaS) provider with unique solutions tailored to achieve your goals.",
+        "backgroundImage": "/images/hero-image/hero-1.jpg"
+    }
+   
+]
