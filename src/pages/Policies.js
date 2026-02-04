@@ -31,7 +31,7 @@ const Policies = () => {
                     <h3 className="title"></h3>
                     <p><b>Last updated October 04, 2022</b></p>
                   
-                    <p>Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at <a href="mailto:info@distinctdigitalmedia.com">info@distinctdigitalmedia.com</a>.</p>
+                    <p>Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at <a href="mailto:info@Lumademand.com">info@Lumademand.com</a>.</p>
 
                     <p><b>SUMMARY OF KEY POINTS</b></p>
 
@@ -182,7 +182,7 @@ const Policies = () => {
 
                     <p>In Short: We do not knowingly collect data from or market to children under 18 years of age.</p>
 
-                    <p>We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at <a href="mailto:info@distinctdigitalmedia.com">info@distinctdigitalmedia.com.</a></p>
+                    <p>We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at <a href="mailto:info@Lumademand.com">info@Lumademand.com.</a></p>
 
                     <p><b>9. WHAT ARE YOUR PRIVACY RIGHTS?</b></p>
 
@@ -204,7 +204,7 @@ const Policies = () => {
 
                     <p><b>Cookies and similar technologies:</b> Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. To opt out of interest-based advertising by advertisers on our Services visit <a href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/.</a></p>
 
-                    <p>If you have questions or comments about your privacy rights, you may email us at <a href="mailto:info@distinctdigitalmedia.com">info@distinctdigitalmedia.com.</a></p>
+                    <p>If you have questions or comments about your privacy rights, you may email us at <a href="mailto:info@Lumademand.com">info@Lumademand.com.</a></p>
 
 
                     <p><b>10. CONTROLS FOR DO-NOT-TRACK FEATURES</b></p>
@@ -227,7 +227,7 @@ const Policies = () => {
 
                     <p><b>13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?</b></p>
 
-                    <p>If you have questions or comments about this notice, you may email us at <a href="mailto:info@distinctdigitalmedia.com">info@distinctdigitalmedia.com</a> or by post to:</p>
+                    <p>If you have questions or comments about this notice, you may email us at <a href="mailto:info@Lumademand.com">info@Lumademand.com</a> or by post to:</p>
 
                     <p>Luma Demand</p>
                     <p> Office 68, The Citadel Tower,</p>

@@ -1,99 +1,98 @@
 [
     {
         "id": "1",
-        "icon": "https://mahdismahi.com/ddmicons/cybersecurity.png",
-        "title": "Data Solutions",
-        "desc": "We acquire the data for you, so you can use it to convert prospects into clients.",
+        "icon": "images/ddmicons/cybersecurity.png",
+        "title": "Lead Fulfillment",
+        "desc": "We acquire and deliver verified, high-quality leads directly to your business for immediate sales conversion.",
         "pageLink": "Learn More",
         "link": "service"
     },
     {
         "id": "2",
-        "icon": "https://mahdismahi.com/ddmicons/conversion-rate.png",
-        "title": "Lead Generation",
-        "desc": "Lead your Industry and stay ahead of your competition by acquiring your market.",
+        "icon": "images/ddmicons/conversion-rate.png",
+        "title": "Targeted Lead Generation",
+        "desc": "Stay ahead of your competition by acquiring leads from your specific market and industry verticals.",
         "pageLink": "Learn More",
         "link": "service"
     },
     {
         "id": "3",
-        "icon": "https://mahdismahi.com/ddmicons/appointment.png",
-        "title": "Appointment Generation",
-        "desc": "Reach your prospects before your competition and convert them into paying customers.",
+        "icon": "images/ddmicons/bant.png",
+        "title": "BANT-Qualified Leads",
+        "desc": "Receive leads with verified Budget, Authority, Need, and Timeline to accelerate your sales pipeline.",
         "pageLink": "Learn More",
         "link": "service"
     },
     {
         "id": "4",
-        "icon": "https://mahdismahi.com/ddmicons/analytics.png",
-        "title": "Market Research",
-        "desc": "Know what your market demands, understand, and reach your audience at the right time and place.",
+        "icon": "images/ddmicons/11509409.png",
+        "title": "Sales Qualified Leads",
+        "desc": "Maximize conversion rates with pre-qualified leads that are ready for immediate sales engagement.",
         "pageLink": "Learn More",
         "link": "service"
     },
     {
         "id": "5",
-        "icon": "https://mahdismahi.com/ddmicons/demand.png",
-        "title": "Demand Generation",
-        "desc": "Create a demand for your Products and services to scale exponentially.",
+        "icon": "images/ddmicons/4187272.png",
+        "title": "Intent-Based Leads",
+        "desc": "Capitalize on active buyer intent data to connect with prospects at the optimal decision-making moment.",
         "pageLink": "Learn More",
         "link": "service"
     },
     {
         "id": "6",
-        "icon": "https://mahdismahi.com/ddmicons/project-management.png",
-        "title": "Account Based Marketing",
-        "desc": "We can target specific accounts for you until they become your loyal customers.",
+        "icon": "images/ddmicons/demand.png",
+        "title": "Demand Delivery",
+        "desc": "We fulfill specific demand directly to vendors and publishers through our specialized network.",
         "pageLink": "Learn More",
         "link": "service"
     },
     {
         "id": "7",
-        "icon": "https://mahdismahi.com/ddmicons/social-media.png",
-        "title": "Brand Marketing",
-        "desc": "From creating your brand identity to establishing your company as a brand, we do it all!",
+        "icon": "images/ddmicons/analytics.png",
+        "title": "Lead Analytics",
+        "desc": "Gain insights into lead quality, source performance, and conversion metrics for optimized ROI.",
         "pageLink": "Learn More",
         "link": "service"
     },
     {
         "id": "8",
-        "icon": "https://mahdismahi.com/ddmicons/registration.png",
-        "title": "Registrations",
-        "desc": "We put you in front of the right audience so you can deliver your webinars or seminars successfully.",
+        "icon": "images/ddmicons/registration.png",
+        "title": "Event & Webinar Leads",
+        "desc": "Deliver targeted audience registrations to ensure your events and webinars achieve maximum attendance.",
         "pageLink": "Learn More",
         "link": "service"
     },
     {
         "id": "9",
-        "icon": "https://mahdismahi.com/ddmicons/bant.png",
-        "title": "BANT",
-        "desc": "We find you Leads, with the budget, authority, need and timeline to buy your offerings.",
+        "icon": "images/ddmicons/project-management.png",
+        "title": "Account-Based Lead Fulfillment",
+        "desc": "Target and deliver leads from specific companies or accounts to support your ABM initiatives.",
         "pageLink": "Learn More",
         "link": "service"
     },
     {
         "id": "10",
-        "icon": "https://mahdismahi.com/ddmicons/4187272.png",
-        "title": "Digital Mareketing",
-        "desc": "We enhance your Digital Identity, Showcase your strengths and reach a global audience",
+        "icon": "images/ddmicons/appointment.png",
+        "title": "Appointment Setting",
+        "desc": "Book qualified meetings with decision-makers to streamline your sales team's workflow.",
         "pageLink": "Learn More",
         "link": "service"
     },
     {
         "id": "11",
-        "icon": "https://mahdismahi.com/ddmicons/3901662.png",
-        "title": "Intent Lead Generation",
-        "desc": "Capitalize on Intent Data and establish yourself as a market leader.",
+        "icon": "images/ddmicons/3901662.png",
+        "title": "Vertical-Specific Leads",
+        "desc": "Access leads from specialized industries and markets tailored to your business focus.",
         "pageLink": "Learn More",
         "link": "service"
     },
     {
         "id": "12",
-        "icon": "https://mahdismahi.com/ddmicons/11509409.png",
-        "title": "Sales Qualified Leads",
-        "desc": "Save time and costs by converting qualified leads acquired through our Distinct SQL campaigns.",
+        "icon": "images/ddmicons/registration.png",
+        "title": "Lead Verification",
+        "desc": "Ensure lead quality with thorough validation processes for accurate contact and intent data.",
         "pageLink": "Learn More",
         "link": "service"
     }
-    
 ]

@@ -47,13 +47,12 @@ const AboutFive = () => {
 
                     <div className="col-xl-5 col-lg-6 col-12" data-aos="fade-up" data-aos-delay="300">
                         <div className="about-content-area">
-                            <SectionTitleTwo 
-                                subTitle="Our solutions begin with brand research"
-                                title="360 Degree Marketing & Sales Enablement Services"
-                            />
+                          <SectionTitleTwo 
+    subTitle="Every lead pipeline starts with precise targeting"
+    title="Complete Lead Fulfillment for Vendors & Publishers"
+/>
 
-                            <p>From Email Marketing to Highly Qualified Leads, Distinct
-Digital Media can help you with all of your marketing and sales needs. We provide specialized marketing and sales acceleration services to assist you in boosting your ROI and pushing your company to greater heights. </p>
+<p>Luma Demand specializes in delivering verified, high-intent leads directly to your sales team. We handle the entire fulfillment process—from targeting to delivery—so you can focus on closing deals and scaling your business efficiently.</p>
 
                             <Link className="btn btn-primary btn-hover-secondary mt-xl-12 mt-lg-8 mt-md-6 mt-4" to={process.env.PUBLIC_URL + "/contact"}>Get Started</Link>
                         </div>

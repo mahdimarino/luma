@@ -9,6 +9,9 @@ const NavBar = () => {
                 <li>
                     <NavLink to={process.env.PUBLIC_URL + "/home"}><span className="menu-text text-dark">Home</span></NavLink>
                 </li>
+                <li>
+                    <NavLink to={process.env.PUBLIC_URL + "/about"}><span className="menu-text text-dark">About Us</span></NavLink>
+                </li>
                
                 <li className="has-children">
                     <NavLink to={process.env.PUBLIC_URL + "/Solutions"}><span className="menu-text text-dark">Solutions</span></NavLink>
@@ -30,13 +33,10 @@ const NavBar = () => {
                         <li><NavLink to={process.env.PUBLIC_URL + "/nurture"}><span className="menu-text text-dark">Nurture</span></NavLink></li>
                     </ul>
                 </li>
+                
                 <li>
-                    <NavLink to={process.env.PUBLIC_URL + "/about"}><span className="menu-text text-dark">About Us</span></NavLink>
+                    <NavLink to={process.env.PUBLIC_URL + "/work"}><span className="menu-text text-dark">blog</span></NavLink>
                 </li>
-                <li>
-                    <NavLink to={process.env.PUBLIC_URL + "/work"}><span className="menu-text text-dark">Careers</span></NavLink>
-                </li>
-              
                 <li>
                     <NavLink to={process.env.PUBLIC_URL + "/globaldata"}><span className="menu-text text-dark">Audience Data</span></NavLink>
                 </li>

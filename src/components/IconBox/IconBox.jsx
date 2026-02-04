@@ -7,13 +7,11 @@ import { Image } from "react-bootstrap";
 const IconBox = ({ data, classOption }) => {
     return (
         <div className={`icon-box text-center ${classOption}`}>
-            <div className="icon ">
-                <Image className="w-25 "
-                    src={data.icon}
-                    option={{
-                        file: data.icon,
-                        
-                    }}
+            <div className="icon">
+                <Image 
+                    className="w-25"
+                    src={process.env.PUBLIC_URL + "/" + data.icon}
+                    alt={data.title}
                 />
             </div>
             <div className="content">
@@ -21,7 +19,6 @@ const IconBox = ({ data, classOption }) => {
                 <div className="desc">
                     <p>{data.desc}</p>
                 </div>
-               
             </div>
         </div>
     )

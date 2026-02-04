@@ -23,7 +23,7 @@ const ContactInformation = ({ classOption }) => {
             <div className="container shape-animate">
                 <SectionTitle
                     titleOption="section-title text-center mb-lg-12 mb-sm-8 mb-xs-8"
-                    title="We are Distinct!"
+                    title="We are Luma!"
                     subTitle="Luma Demand, a trusted marketing partner, was founded to build meaningful client relationships. With a decade of experience, we drive impactful campaigns using actionable data to boost your products effectively."
                 />
 

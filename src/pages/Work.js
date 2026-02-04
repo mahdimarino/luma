@@ -9,6 +9,9 @@ import BrandContainer from '../container/Brand/BrandContainer';
 import Faq from '../container/Faq/Faq';
 import Footer from '../container/Footer/Footer';
 import ScrollToTop from '../components/ScrollToTop.jsx';
+import BlogClassicContainer from '../container/BlogGrid/BlogClassicContainer.js';
+import BlogCategoryContainer from '../container/BlogGrid/BlogCategoryContainer.js';
+import PageBlog from '../container/BlogGrid/PageBlog.js';
 
 
 const Work = () => {
@@ -23,6 +26,7 @@ const Work = () => {
                 contentTwo="Careers"
             />
             <WorkContainer />
+            
            
             <Faq />
             <Footer />

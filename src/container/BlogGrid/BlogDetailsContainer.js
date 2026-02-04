@@ -18,7 +18,7 @@ const BlogDetailsContainer = ({data}) => {
             <div className="container">
                 <div className="row mb-n10">
 
-                    <div className="col-lg-8 col-12 order-lg-1 mb-10">
+                    <div className=" col-12 order-lg-1 mb-10">
                         <div className="row row-cols-1 no-gutters">
                             
                             <BlogDetails data={data} />
@@ -37,7 +37,7 @@ const BlogDetailsContainer = ({data}) => {
                                 </div>
                             </div>
 
-                            <div className="blog-nav-links">
+                            {/* <div className="blog-nav-links">
                                 <h4 className="title">Related Posts </h4>
                                 <div className="nav-list">
                                     <div className="nav-item prev">
@@ -60,10 +60,10 @@ const BlogDetailsContainer = ({data}) => {
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
 
 
-                            <div className="comment-form-wrap">
+                            {/* <div className="comment-form-wrap">
                                 <div className="comment-respond">
                                     <h3 className="title">Leave a Reply</h3>
                                     <Comment 
@@ -72,12 +72,12 @@ const BlogDetailsContainer = ({data}) => {
                                         title={data.title}
                                     />
                                 </div>
-                            </div>
+                            </div> */}
 
                         </div>
                     </div>
 
-                    <div className="col-lg-4 col-12 order-lg-2 mb-10">
+                    {/* <div className="col-lg-4 col-12 order-lg-2 mb-10">
                         <SidebarWrap>
                             <SidebarWidget>
                                 <SidebarSearch />
@@ -98,7 +98,7 @@ const BlogDetailsContainer = ({data}) => {
                                 <SidebarTag />
                             </SidebarWidget>
                         </SidebarWrap>
-                    </div>
+                    </div> */}
 
                 </div>
             </div>

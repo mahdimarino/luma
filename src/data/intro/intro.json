@@ -1,15 +1,15 @@
 [
-    {
-        "id": "1",
-        "title": "Get Ahead of the Competition!",
-        "desc": "Supercharge your business with our top-notch Lead Generation and Marketing Services, driving growth and maximizing market impact.",
-        "backgroundImage": "/images/hero-image/hero-2.jpg"
-    },
-    {
-        "id": "2",
-        "title": "Luma Demand",
-        "desc": "Luma Demand is a Sales Enablement as a Service (SEaaS) provider with unique solutions tailored to achieve your goals.",
-        "backgroundImage": "/images/hero-image/hero-1.jpg"
-    }
+   {
+    "id": "1",
+    "title": "High-Quality Leads Delivered to Your Business",
+    "desc": "Scale your revenue with exclusive, verified leads from Luma Demand – your dedicated third-party fulfillment partner for targeted lead generation.",
+    "backgroundImage": "/images/hero-image/hero-2.jpg"
+},
+{
+    "id": "2",
+    "title": "Welcome to Luma Demand",
+    "desc": "A specialized third-party fulfillment house delivering premium leads directly to vendors and publishers — so you can focus on closing, not searching.",
+    "backgroundImage": "/images/hero-image/hero-1.jpg"
+}
    
 ]

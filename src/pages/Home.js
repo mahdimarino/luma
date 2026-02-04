@@ -27,7 +27,7 @@ const HomeOne = () => {
             <ServiceIconBox classOption="bg-color-1" />
             <HomeAboutTwo />
           
-            <HomeBlog />
+            {/* <HomeBlog /> */}
             <CallToAction />
             <ContactInformation />
             <BrandContainer classOption="section-padding" />

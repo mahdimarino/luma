@@ -28,10 +28,10 @@ const TestimonialContainer = ({ classOption }) => {
         <div className={`testimonial-section section section-padding-t90 section-padding-bottom ${classOption}`}>
             <div className="container-fluid ps-xl-16 ps-lg-3 ps-md-3 ps-sm-3 ps-3 pe-xl-16 pe-lg-3 pe-md-3 pe-sm-3 pe-3">
                 <SectionTitle
-                    headingOption="title fz-28"
-                    title="We enhance your sales funnel from top to bottom"
-                    subTitle="We optimize your sales funnel at every stage for maximum efficiency and results"
-                />
+    headingOption="title fz-28"
+    title="We deliver qualified leads at every stage of your sales funnel"
+    subTitle="Our third-party fulfillment services provide targeted leads from initial interest to sales-ready prospects"
+/>
 
                 <Swiper className="testimonial-slider" data-aos="fade-up" data-aos-delay="300" options={sliderOptions}>
                     {TestimonialData &&

@@ -24,9 +24,8 @@ const HomeAbout = () => {
             <div className="container">
 
                 <SectionTitle
-                    title="We are a full-service creative agency"
-                    subTitle="Our team of creatives are perfectionists
-                    who love what they do and love"
+                   title="A Dedicated Lead Fulfillment Partner"
+                    subTitle="We deliver exclusive, high-intent leads so your sales team can focus on closing deals and driving revenue."
                 />
 
                 <div className="row">
@@ -55,12 +54,11 @@ const HomeAbout = () => {
                     <div className="col-xl-5 col-lg-6 col-12" data-aos="fade-up" data-aos-delay="300">
                         <div className="about-content-area">
                             <SectionTitleTwo 
-                                subTitle="Every day brings new challenges"
-                                title="Reach your Potential with Luma Demand"
-                            />
+    subTitle="Every partnership is powered by precision"
+    title="Scale Your Revenue with Luma Demand"
+/>
 
-                            <p>Luma Demand assists both small and large organizations in reaching their maximum potential by connecting them with their target audience at the optimum time and place. We can help you conquer your market and become the talk of the town by utilizing our distinctive lead generating and marketing services.</p>
-
+<p>Luma Demand is a dedicated third-party fulfillment partner for vendors and publishers. We specialize in delivering high-quality, verified leads directly to your business—so you can focus on conversion, not prospecting. By leveraging our targeted demand network, we help you capture market opportunities efficiently and drive predictable growth.</p>
                             <Link className="btn btn-primary btn-hover-secondary mt-xl-8 mt-lg-8 mt-md-6 mt-4" to={process.env.PUBLIC_URL + "/about"}>About Us</Link>
                         </div>
                     </div>

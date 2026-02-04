@@ -22,7 +22,7 @@ const AboutUs = () => {
             <Header />
             <Breadcrumb 
                 image="images/bg/breadcrumb-bg.jpg"
-                title="Stand Out from the Competition with Distinct Marketing Services"
+                title="Deliver More Revenue with Reliable Lead Fulfillment"
                 content="Home"
                 contentTwo="About Us"
             />

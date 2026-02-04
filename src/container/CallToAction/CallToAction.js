@@ -22,10 +22,10 @@ const CallToAction = () => {
                     <div className="col-lg-12 m-auto">
                         <div className="cta-content text-center">
                             <SectionTitle
-                                titleOption="color-light text-center mb-0"
-                                title="Become Distinct with Distinct Lead Generation Services"
-                                subTitle="Luma Demand elevates both small and large businesses, connecting them with their target audience strategically. Let us help you dominate your market with our unique lead generation and marketing services."
-                            />
+    titleOption="color-light text-center mb-0"
+    title="Power Your Growth with Dedicated Lead Fulfillment"
+    subTitle="Luma Demand delivers high-quality, verified leads directly to vendors and publishers. As your third-party fulfillment partner, we provide a reliable pipeline of targeted demand so you can focus on conversion and revenue growth."
+/>
                             <Link to={process.env.PUBLIC_URL + "/contact"} className="btn btn-primary btn-hover-secondary mt-6" data-aos="fade-up" data-aos-delay="300">Get Started</Link>
                         </div>
                     </div>

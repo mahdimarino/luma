@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "icon": "https://mahdismahi.com/ddmicons/analytics.png",
+        "icon": "images/ddmicons/analytics.png",
         "title": "Market Research",
         "desc": "We make it easy to conquer the market by researching it for you. You will receive insights and analyses of the market that your competition doesn’t have. ",
         "pageLink": "Learn More",
@@ -9,7 +9,7 @@
     },
     {
         "id": "2",
-        "icon": "https://mahdismahi.com/ddmicons/social-media.png",
+        "icon": "images/ddmicons/social-media.png",
         "title": "Brand Marketing",
         "desc": "We help you become a leader in your industry by creating your Distinct Brand Identity and helping you build your audience through our cutting-edge marketing techniques.",
         "pageLink": "Learn More",
@@ -17,7 +17,7 @@
     },
     {
         "id": "3",
-        "icon": "https://mahdismahi.com/ddmicons/cybersecurity.png",
+        "icon": "images/ddmicons/cybersecurity.png",
         "title": "Data Solutions",
         "desc": "Our team of highly-skilled Data Analysts will provide actionable data to help you understand your prospects and your market to conquer them in no time.",
         "pageLink": "Learn More",
@@ -25,7 +25,7 @@
     },
     {
         "id": "4",
-        "icon": "https://mahdismahi.com/ddmicons/4187272.png",
+        "icon": "images/ddmicons/4187272.png",
         "title": "Digital Mareketing",
         "desc": "Building your digital identity is our forte! With our Digital Marketing services, you can create an unbeatable personality for your brand.",
         "pageLink": "Learn More",
@@ -33,7 +33,7 @@
     },
     {
         "id": "5",
-        "icon": "https://mahdismahi.com/ddmicons/conversion-rate.png",
+        "icon": "images/ddmicons/conversion-rate.png",
         "title": "Lead Generation",
         "desc": "To improve your sales funnel and increase your conversion rate, we work hard on delivering you a good quantity of qualified leads that will have an outstanding conversion rate",
         "pageLink": "Learn More",
@@ -41,7 +41,7 @@
     },
     {
         "id": "6",
-        "icon": "https://mahdismahi.com/ddmicons/demand.png",
+        "icon": "images/ddmicons/demand.png",
         "title": "Demand Generation",
         "desc": "Luma Demand can provide demand generation services to help you gain a competitive edge over your competition by creating demand for your products and services.",
         "pageLink": "Learn More",
@@ -49,7 +49,7 @@
     },
     {
         "id": "7",
-        "icon": "https://mahdismahi.com/ddmicons/3901662.png",
+        "icon": "images/ddmicons/3901662.png",
         "title": "Content Syndication",
         "desc": "We will not only distribute your content across various platforms, but we will also help you drive traffic, increase brand awareness and generate leads through our Content Syndication service.",
         "pageLink": "Learn More",
@@ -57,7 +57,7 @@
     },
     {
         "id": "8",
-        "icon": "https://mahdismahi.com/ddmicons/registration.png",
+        "icon": "images/ddmicons/registration.png",
         "title": "Registrations",
         "desc": "Deliver successful webinar/seminar registrations to a larger audience with our Registration campaign services. We can help you find the audience you want to cater to.",
         "pageLink": "Learn More",
@@ -65,7 +65,7 @@
     },
     {
         "id": "9",
-        "icon": "https://mahdismahi.com/ddmicons/appointment.png",
+        "icon": "images/ddmicons/appointment.png",
         "title": "Appointment Generation",
         "desc": "We put your products and services in front of highly potential buyers, ahead of your competition, enabling you to close them with your expertise.",
         "pageLink": "Learn More",
@@ -75,7 +75,7 @@
    
     {
         "id": "10",
-        "icon": "https://mahdismahi.com/ddmicons/project-management.png",
+        "icon": "images/ddmicons/project-management.png",
         "title": "Account Based Marketing",
         "desc": "Our account-based marketing strategy helps you focus on closing the right customers, saving time, and achieving an exceptional return on investment.",
         "pageLink": "Learn More",
@@ -85,7 +85,7 @@
     
     {
         "id": "11",
-        "icon": "https://mahdismahi.com/ddmicons/bant.png",
+        "icon": "images/ddmicons/bant.png",
         "title": "BANT",
         "desc": "Let us handle your Sales-Qualified leads - Distinct SQL offers a proven solution. Our tailored approach ensures higher lead quality while saving time and costs.",
         "pageLink": "Learn More",
@@ -95,7 +95,7 @@
     
     {
         "id": "12",
-        "icon": "https://mahdismahi.com/ddmicons/11509409.png",
+        "icon": "images/ddmicons/11509409.png",
         "title": "Sales Qualified Leads",
         "desc": "Qualify your sales leads through their Budget, Authority, Needs, and Timeline! Our team of BANT experts does 20+ quality checks before qualifying the lead.",
         "pageLink": "Learn More",

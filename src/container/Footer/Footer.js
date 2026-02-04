@@ -22,7 +22,7 @@ const Footer = () => {
 
 
                                     <p><Link to={process.env.PUBLIC_URL + "/"}>(+1) 212-946-2701</Link></p>
-                                    <p><Link to={process.env.PUBLIC_URL + "/"}>info@distinctdigitalmedia.com</Link> </p>
+                                    <p><Link to={process.env.PUBLIC_URL + "/"}>info@Lumademand.com</Link> </p>
                                 </div>
                                 <div className="footer-social-inline">
                                     <a href="#"><i className="fab fa-twitter-square"></i></a>
