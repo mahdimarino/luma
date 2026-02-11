@@ -47,7 +47,7 @@ const HomeSkillWithVideo = () => {
                                     <div className="text">Get the desired certificate delivered at house</div>
                                 </li>
                             </ul>
-                            <Link to={process.env.PUBLIC_URL + "/"} className="btn btn-primary btn-hover-secondary"> Get started for free</Link>
+                            <Link to={process.env.PUBLIC_URL + "/"} className="btn btn-primary btn-hover-secondary"> Get started Now</Link>
                         </div>
                     </div>
 

@@ -51,9 +51,9 @@ const Header = () => {
 
                                 <div className="header-mobile-menu-toggle d-xl-none ms-sm-2">
                                     <button type="button" className="toggle" onClick={onCanvasHandler}>
-                                        <i className="icon-top"></i>
-                                        <i className="icon-middle"></i>
-                                        <i className="icon-bottom"></i>
+                                        <i className="icon-top text-dark"></i>
+                                        <i className="icon-middle text-dark"></i>
+                                        <i className="icon-bottom text-dark"></i>
                                     </button>
                                 </div>
                             </div>

@@ -21,8 +21,34 @@
             
         ]
     },
-    {
+     {
         "id": 2,
+        "title": "Solutions",
+    "list": [
+        {
+            "id": 1,
+            "text": "Marketing Qualified Leads",
+            "url": "/solution-details/1"
+        },
+        {
+            "id": 2,
+            "text": "Highly Qualified Leads",
+            "url": "/solution-details/2"
+        },
+        {
+            "id": 3,
+            "text": "Account Based Marketing",
+            "url": "/solution-details/3"
+        },
+        {
+            "id": 4,
+            "text": "Highly Qualified Leads",
+            "url": "/solution-details/4"
+        }
+    ]
+},
+    {
+        "id": 3,
         "title": "Links",
         "list": [
             {
@@ -49,13 +75,13 @@
         ]
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Legals",
         "list": [
             {
             "id": 1,
             "text": "Privacy Policy",
-            "url": "/policies"
+            "url": "/"
             },
             {
             "id": 2,

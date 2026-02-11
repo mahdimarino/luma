@@ -59,7 +59,7 @@ const SolutionDetailsContainer = ({ data }) => {
                                
 
                             </ul>
-                            <Link to={process.env.PUBLIC_URL + "/"} className="btn btn-primary btn-hover-secondary"> Get started for free</Link>
+                            <Link to={process.env.PUBLIC_URL + "/"} className="btn btn-primary btn-hover-secondary"> Get started Now</Link>
                         </div>
                     </div>
 
@@ -99,7 +99,7 @@ const SolutionDetailsContainer = ({ data }) => {
                         <div className="digital-marketing" data-aos="fade-up">
                             <h3 className="heading heading-h3">Content Syndication for B2B Tech Marketing and Sales Teams</h3>
                         </div>
-                        <Link to={process.env.PUBLIC_URL + "/"} className="btn btn-primary btn-hover-secondary mt-8"> Get started for free</Link>
+                        <Link to={process.env.PUBLIC_URL + "/"} className="btn btn-primary btn-hover-secondary mt-8"> Get started Now</Link>
                     </div>
                     <div className="col-lg-5 col-md-12 col-12 offset-lg-1 mb-12 ">
                         <div className="digital-marketing mt-lg-0 mt-6" data-aos="fade-up">

@@ -11,7 +11,7 @@ const WorkItemTwo = ({ data }) => {
             <div className="info">
                 <h3 className="title">{data.title}</h3>
                 <p className="desc">{data.excerpt}</p>
-                  <Link className="text-dark" to={process.env.PUBLIC_URL + `/blog-details/${data.id}`}>More Details</Link>
+                  {/* <Link className="text-dark" to={process.env.PUBLIC_URL + `/blog-details/${data.id}`}>More Details</Link> */}
             </div>
         </div>
     )
